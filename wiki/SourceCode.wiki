@@ -1,0 +1,63 @@
+=SOURCE CODE=
+
+*<font color="BLUE">VERSION 01:</font>*
+
+    * Cursor Location: http://www.iphonedevsdk.com/forum/iphone-sdk-tutorials/7350-adding-subviews-custimize-keyboard-2.html
+
+    * CopyPaste: http://developer.apple.com/iphone/library/samplecode/CopyPasteTile/Listings/Classes_ColorTileView_m.html#//apple_ref/doc/uid/DTS40009040-Classes_ColorTileView_m-DontLinkElementID_4
+    * http://www.youtube.com/watch?v=9ozwoETFei0 -
+          o
+            “Table Views and Navigation Controllers - iPhone SDK Tutorial” By: HDiPhone.
+                + This YouTube demonstration was used for learning and support in creating our navigation based table view setup in EZNotes. It showed us how to use multiple ViewControllers to go deeper in our navigation of our application. This tutorial also showed us how to setup and add items into a standard table view.
+                      # Some source code was borrowed and used within all of our ViewControllers including:
+                            * NoteViewController.h, RootViewController.h, KeyboardViewController.h (and all their respective implementation (m) files.
+
+
+    * http://www.megaupload.com/?d=9J5SXGAO
+    * http://www.youtube.com/user/j0egas#p/u/70/tMo8T1uh77E
+          o “iPhone SDK: making a complete tableView with data part 1-5” By: j0egas
+                + This video was helpful in teaching us how to save. It also provided extra information on building tables. The first link is the actual source code, and the second link is a YouTube video tutorial using the source code.
+    * http://www.vimeo.com/1454094
+    * austinbull.com/tutorials/tutorial2.zip
+          o “iPhone Tutorial - Archivers, unarchivers, and serialization” By: Nick Myers
+                + The following is also a combination of downloadable source code and video tutorial. This tutorial shed some light for us in using NSKeyedArchivers and NSKeyedUnarchivers to save and load. This tutorial made massive contributions to the way we approach saving our “Note” datum into an array.
+                      # This source code was borrowed and used within our app delegate
+                            * EZNotesAppDelegate.h and EZNotesAppDelegate.m
+    * http://www.dejoware.com/blogpages/files/iphone_programming_landscape_view_tutorial.html
+
+
+
+
+*<font color="BLUE">VERSION 02:</font>*
+
+    * http://www.roseindia.net/tutorial/iphone/examples/iPhone-Create-SubView.html
+          o Subview
+                + Subview clarification, some code borrowed.
+    * MFMailComposer:
+          o http://developer.apple.com/iphone/library/documentation/MessageUI/Reference/MFMailComposeViewController_class/Reference/Reference.html*/
+    * SMS:
+          o http://applookup.com/
+          o http://www.johnwordsworth.com/2010/04/iphone-code-snippets-launching-safari-and-other-apps/
+    o
+    * For unit testing(Logic unit testing):
+          o http://www.mobileorchard.com/ocunit-integrated-unit-testing-in-xcode/
+          o http://developer.apple.com/iphone/library/documentation/xcode/conceptual/iphone_development/135-Unit_Testing_Applications/unit_testing_applications.html
+          o http://developer.apple.com/tools/unittest.html
+          o http://www.stiefels.net/2007/05/01/unit-testing-with-xcode/
+    * Help:
+          o The following link was used to determine how to have hyperlinks within the app, so that on call, our app would relay us to our help page.
+          o http://stackoverflow.com/questions/432990/hyperlinks-within-about-text-for-iphone-application
+
+
+
+*<font color="BLUE">VERSION 03:</font>*
+
+    * Swipe Event:
+          o http://www.bogotobogo.com/XcodeSDK-Chapter12.html
+    * Keyboard
+    o
+    * Detect system version
+          o http://developer.apple.com/iphone/library/documentation/uikit/reference/UIDevice_Class/Reference/UIDevice.html#//apple_ref/occ/instp/UIDevice/systemVersion
+          o http://www.servin.com/iphone/iPhone-Programming-Device-Info.pdf
+
+

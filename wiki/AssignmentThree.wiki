@@ -1,0 +1,23 @@
+#summary Version 1
+
+Project Manager
+
+_Andrew Samuel_
+
+= Introduction =
+
+In this assignment, a working version of our application has been developed. 
+*Version Features:*
+-Alternative Keyboard
+-Main GUI
+-Notepad Saving
+
+_Due Date_:July 8,2010
+
+= Details =
+
+*Updated Requirement Document:* http://code.google.com/p/eznotes/downloads/detail?name=Req_Doc_Ver1.docx&can=2&q=#makechanges
+
+*Updated Design Document:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-Design.doc&can=2&q=#makechanges
+
+*Updated Quality Assurance:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-QA.doc&can=2&q=#makechanges

@@ -1,0 +1,23 @@
+#summary Requirements and Initial Design
+
+Project Manager
+
+_Ivan Sangala_
+
+= Introduction =
+
+The initial requirements and design of the program is created in this assignment.
+
+_Due Date:_ *Requirement Document:*June 10,2010 @17:00 *Design and QA*: June 12,2010 @21:00
+
+
+
+= Details =
+*Requirement Document:*
+http://code.google.com/p/eznotes/downloads/detail?name=Requirement%20Document_A2.pdf&can=2&q=#makechanges
+
+*Design Document:*
+http://code.google.com/p/eznotes/downloads/detail?name=DESIGN%20DOCUMENT.docx&can=2&q=#makechanges
+
+*Quality Assurance Plan:*
+http://code.google.com/p/eznotes/downloads/detail?name=Quality%20Assurance%20Plan.docx&can=2&q=#makechanges

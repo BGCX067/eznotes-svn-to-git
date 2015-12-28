@@ -1,0 +1,106 @@
+=TUTORIAL=
+
+*<font color= "BLUE">1. How to Access a Note from main GUI:</font>*
+
+Step 1: Press on “+” button to make a new note.
+
+<img src ="http://i27.tinypic.com/51btw3.png" width='350' height='200'>_Fig 1a.Main Window_
+
+Step 2: Press on the name of the note to access it.
+
+<img src="http://i32.tinypic.com/9zye6o.png" width='350' height='200'>_Fig 1b.Note View_
+
+Step 3: Press on Edit Title to edit the name of the note’s Title.
+
+			        OR
+
+        Press on Edit Note to edit the content of the note.
+
+        This results in the keyboard to pop-up.
+
+<img src="http://i26.tinypic.com/hsuhs5.png" width='350' height='200'>_Fig 1c.Keyboard View_
+
+
+*<font color= "BLUE">2. How to access each letter on the Keyboard: </font>*
+
+Each <font color="CYAN">CHARACTER (blue)</font> button represents three characters. The three additional <font color="RED">SELECTION (red)</font> buttons (Left/Delete, Center/Space, Right/Enter) are used to select a character within the key to be used.
+
+a._To access a letter_, first the user has to press a key that contains the desired character. The <font color="CYAN">CHARACTER</font> button will give access for the user to choose between the three characters it represents. Then, the user has to press the <font color="RED">SELECTION</font> button to select the desired character.
+
+b._To access <font color="RED">“Delete”,”Space”,”Enter”</font>_, the user must press the <font color="RED">SELECTION</font> button without pressing a character key beforehand.
+
+c._To access a <font color="ORANGE">special character</font>_, the <font color="ORANGE">SYMBOL</font> button, the user will have to use the same procedure one has to use for the <font color="CYAN">CHARACTER</font> button.
+
+d._To navigate in the written text_, the <font color="PINK">“left”, ”right”, “top” and “down”  NAVIGATE</font> buttons will have to be pressed by the user. 
+
+e._To access a number_, press the number button, and then press on <font color="RED">Select Center.</font>
+* NOTE:* for 0 and 1: press the <font color="CYAN">01 button</font>, then press on <font color="RED">Select Left</font> for 0 and <font color="RED">Select Center</font> for 1.
+
+*<font color= "BLUE">EXAMPLE</font>*
+
+If the user wants to type <font color="CYAN">“W”</font>, the user will have to press the <font color="CYAN">“VWX”</font> button then <font color="RED">“Select Center/Space”</font> button. 
+
+If the user presses the <font color="RED">Select Center</font> button without pressing a <font color="CYAN">CHARACTER</font> button beforehand, then it will put a space. 
+
+<img src="http://i26.tinypic.com/hsuhs5.png" width='350' height='200'>_Fig 2.Keyboard_
+
+*<font color= "BLUE">3. How to switch keyboards: </font>*
+
+There are three sets of keyboard provided in this application. To switch between keyboards, the user will press the <font color="GREEN">“abc/ABC/123”</font> button.
+
+<img src="http://i26.tinypic.com/hsuhs5.png" width='350' height='200'>_Fig 3a.Keyboard 1_
+
+<img src="http://i29.tinypic.com/dpd25g.png" width='350' height='200'>_Fig 3b.Keyboard 2_
+
+<img src="http://i29.tinypic.com/293vhcl.png" width='350' height='200'>_Fig 3c.Keyboard 3_
+
+*NOTE:* When accessing numbers, click on the number button and then <font color="RED">“Center/Space”</font> button. 
+
+*<font color= "BLUE">4. How to save or delete a note: </font>*
+
+<font color="BLUE">SAVING:</font> 
+
+After the user has finished writing the note, press on the save button - This takes the user back to the Note View.
+
+<img src="http://i26.tinypic.com/hsuhs5.png" width='350' height='200'>_Fig 4a Save View_
+
+<font color="BLUE">DELETING:</font>
+
+Step 1: Go to the Main Window. Press on Edit.( -This takes you to the Delete Window)
+
+Step 2: Press on the Red button near the note(-Delete Icon Appears)
+
+Step 3: Press on Delete to delete note. 
+
+Step 4: Press on Done to go back to Main Window.
+
+<img src="http://i30.tinypic.com/2v1kcau.png" width='350' height='200'>_Fig 4b Delete View_
+
+
+*<font color= "BLUE">5. How to export note to Email/SMS:</font>*
+
+In note view, press on Mail or SMS button to copy the content of the note to the email or text message's body.
+
+
+<img src="http://i32.tinypic.com/9zye6o.png" width='350' height='200'>_Fig 5a Note View_
+
+<font color="BLUE">Mail:</font>
+
+Step 1: Select the email address of the recipient from the address book. 
+
+<img src="http://i31.tinypic.com/5qj50.png" width='350' height='200'>_Fig 5b Email Window_ 
+
+<font color="BLUE">SMS:</font>
+
+Step 1: Select from address book or type in the recipient's phone number.
+
+Step 2: When using the SMS function you have to press and hold within the body of the text message until the paste icon shows.
+
+Step 3: Then press the paste icon to transfer the body of the note. 
+
+<img src="http://i30.tinypic.com/1o0y7o.png" width='350' height='200'>_Fig 5c SMS Window_
+
+
+
+<br><br><br><br><br><br><br><br><br>
+<a href="http://www.as-seen-on-tv-store-1.com/" ><font size = "1">SHORTCUTS TO INTERNET MILLIONS</font></a><br><img src="http://www.imghostsrc.com/SHORTCUTS_TO_INTERNET_MILLIONS_3958401.jpg" >

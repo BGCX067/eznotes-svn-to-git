@@ -1,0 +1,221 @@
+=MEETING MINUTES=
+
+<font color="BLUE">ASSIGNMENT 02:  (PROJECT MANAGER:Ivan Sangala)</font>
+
+<font color="PURPLE">2010-05-29</font>
+*Meeting Manager:* Ivan
+
+Updates on what has happened in assignment: 5 minutes
+
+    * Damage control: 15 minutes
+          o Developing a plan to work while Stephanie and Sejal were sick
+    * Starting Requirements Document: 30 minutes
+          o Introduction, Audience List, Features, non-functional requirements
+    * Plan next meeting: 5 minutes
+          o Thursday June 3rd.  3pm Harbour centre.
+
+
+
+
+<font color="PURPLE">2010-06-03</font>
+*Meeting Manager:* Ivan Sangala
+Meeting started @ 3:30pm
+
+    * Talked about what Sejal and Stephanie missed from last meeting            
+    * Showed each of our design ideas and came up with a final decision 
+          o Andrew came up with a scroll bar keyboard
+          o Ivan and Stephanie came up with a keyboard with 2 characters per key
+          o Sejal came up with an idea for enlarging keys of current keyboard
+    * Talked about the requirements documents
+
+
+<font color="PURPLE">2010-06-05</font>
+*Meeting Manager:* Ivan Sangala
+Absent: Sejal Rathee
+Meeting started @ 10:30
+
+    * Showed each new design
+    * Discussed which design and coming up with final design.               
+    * Assign jobs
+          o Stephanie is going to do the Tutorial and add the parts together
+          o Sejal is doing the Quality Assurance Plan (research)
+          o Andrew will help with structuring the ‘User Manual’
+    * Work on Requirements Document
+          o Tutorial
+          o Glossary
+          o Non-functional
+
+
+<font color="PURPLE">2010-06-10</font>
+*Meeting Manager:* Ivan Sangala
+Meeting started @ 4:00 pm
+
+    * Reviewed and corrected the final requirements document             - 1hour
+    * Submitted requirements document @4.55pm
+    * Figuring out our next steps for the rest of the assignment               -15 mins
+
+
+<font color="BLUE">ASSIGNMENT 03: (PROJECT MANAGER:Andrew Samuel)</font>
+
+<font color="PURPLE">2010-06-21</font>
+*Meeting manager:* Andrew Samuel
+Absent: Sejal Rathee
+Meeting started @ 1:30pm
+
+    * Talked about possible structure changes and layout for the app    -20 mins
+          o Decided to use 2-3 views
+    * Stephanie was assigned the job of coming up with a graphical design for the keyboard     -10 mins
+    * Assigned some readings for the group - 20 mins
+    * (not sure I know it took us 2 hours)
+
+
+<font color="PURPLE">2010-06-24</font>
+*Meeting Manager:* Andrew Samuel
+Meeting started @ 3pm
+
+    * Met at Mac lab and worked on various ideas for how to approach coding.
+    * Decided who does what, what we need to do before starting        -20 mins
+    * Assigned documents that we all had to read.         -30mins
+    * Worked on and assigned for homework a simple program we all had to build before the next meeting. (Hello World)     -30mins
+
+
+<font color="PURPLE">2010-06-26</font>
+*Meeting manager:* Andrew Samuel
+Absent: Ivan Sangala
+Meeting started @ 9am
+
+    * Started coding on the keyboard view
+    * Did research on different approaches to implementing a keyboard
+    * Created a keyboard for the simple letters and had it output onto a label.  - 2hrs
+
+
+<font color="PURPLE">2010-06-30</font>
+*Meeting Manager:* Andrew Samuel
+Absent: Stephanie Kusnadi
+Meeting Started @ 3.00pm
+
+    * Trying to figure out why program doesn’t run on other systems apart from the ones at harbour centre.
+    * Working on menu display of the application
+
+
+<font color="PURPLE">2010-07-03</font>
+*Meeting Manager:* Andrew Samuel
+Absent: Sejal Rathee
+Meeting Started @ 9am
+
+    * Keyboard keys switch characters on button press
+    * Stephanie builds the main GUI
+    * Ivan figured out how to save/load
+    * discussed how the views will interact
+    * Came up with idea for Notes object for storing and transferring the text.
+
+
+<font color="PURPLE">2010-07-07</font>
+*Meeting Manager:* Andrew Samuel
+Absent: Stephanie
+Meeting Started @ 10am
+
+    * Came up with the NavigationViewController + Table Archive idea
+    * worked on the save function
+    * managed to get save/load working to some extent.
+
+
+<font color="PURPLE">2010-07-08</font>
+*Meeting Manager:* Andrew Samuel
+Meeting started @ 11am
+
+    * Added the keyboard view to the main project
+    * connected all views
+    * fixed a few save load issues
+
+
+
+<font color="BLUE">ASSIGNMENT 04: (PROJECT MANAGER: Sejal Rathee)</font>
+
+<font color="PURPLE">2010-07-10</font>
+*Meeting Manager:*Andrew Samuel
+Meeting Started @ 10am
+
+    * fixed the problem with passing the index to the views
+    * all notes properly loading their OWN text data
+    * Edit title and edit note are 2 seperate buttons that are fully working now
+    * Commented most of the project
+
+
+<font color="PURPLE">2010-07-15</font>
+*Meeting Manager:* Sejal Rathee
+Meeting started @ 2:30pm
+
+    * made schedule for project
+    * worked on deleting
+    * came up with ideas for email
+
+
+<font color="PURPLE">2010-07-17</font>
+*Meeting Manager:* Andrew Samuel
+Meeting started @ 9
+
+    * Completed the delete/edit button
+    * fixed all cursor movements
+    * disabled keyboard while keeping cursor. 
+
+
+<font color="PURPLE">2010-07-19</font>
+*Meeting Manager:* Sejal Rathee
+Meeting Started @ 2.30pm
+
+    * Worked on unit testing:Logic Testing
+    * Install application on iPhone to check email/texting feature. (failed)
+
+
+<font color="PURPLE">2010-07-20</font>
+*Meeting Manager:* Andrew Samuel
+Meeting Started @ 2pm
+
+    * programmed the email and sms functions (Untested)
+    * fixed minor bugs
+    * figured out how to get app running on iphone (waiting on TA to approve new certificate).
+
+
+<font color="PURPLE">2010-07-21</font>
+*Meeting Manager:* Sejal Rathee
+Meeting Started @ 12.45pm
+
+    * Help button created
+    * fixed few bugs
+    * Documentations updated
+    * Worked on Unit Testing
+
+
+<font color="PURPLE">2010-07-22</font>
+*Meeting manager:* Sejal Rathee
+Meeting Started @ 3pm
+
+    * finalized documents for submission
+    * cleaned code
+    * submitted assignment
+
+
+
+
+<font color="BLUE">ASSIGNMENT 05:  (PROJECT MANAGER:Ivan Sangala)</font>
+
+<font color="PURPLE">2010-07-24</font>
+*Meeting manager:* Ivan Sangala
+Meeting Started @10am
+
+    * cleaned up the version 3 checklist
+    * assigned jobs
+          o Andrew is doing text to speech
+    * started implementing touch events
+    * fixed up online tutorial
+
+
+<font color="PURPLE">2010-07-27</font>
+*Meeting Manager:* Andrew Samuel
+Meeting Started @2.30pm
+
+    * fixed bugs
+    * made tutorial web-page
+    * fixed other links on the website
+    * text to speech

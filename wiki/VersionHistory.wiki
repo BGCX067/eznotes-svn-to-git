@@ -1,0 +1,94 @@
+#labels VersionHistory
+= Introduction =
+
+A detailed information of the various Versions developed during the application's development.
+
+
+= Details =
+*Version 2.2.0(August 2, 2010):*
+
+    * Changed keyboard layout
+    * Changed how the keyboard was accessed from a subview to a input view 
+    * Cancelled working on touch events due to conflict with scroll functions
+    * Sorting by date.
+    * Adjusting the SMS function (user has to get number from address book)
+
+_________________________________________________________________________________________
+*Version 2.1.0(July 27, 2010):*
+
+    * Fixed Icon issues
+    * Fixed move arrow problems 
+    * Fixed some other bugs
+
+Version 2.0
+
+_________________________________________________________________________________________
+*Version 1.6.6(July 22, 2010):*
+
+    * Code cleanup
+    * help button connects to website
+
+_________________________________________________________________________________________
+*Version 1.6.0(July 20, 2010):*
+
+    * Added Email and SMS functions
+          o sms calls the keyboard
+          o They are untested due to issues with working on the iphone device
+    * changed the data value in the noteview  from BOOL to a NSNumber so that we can have 3 different values
+    * email auto-loads the title into the subject, the note into the body
+    * Temporary fix on the bug on the main page where we couldn’t see first entry as we loaded the screen.
+    * Fixed issue where after changing title and going back to the scroll menu, the list in the root menu didn’t update. 
+
+
+_________________________________________________________________________________________
+*Version 1.5.0 (July 18, 2010):*
+
+    * Now implemented the keyboard using a  subview
+    * the save button saves the file while the back button is now a cancel button
+    * Title is fully editable and updates in the noteview
+    * Deleted the keyboardViewController
+
+
+__________________________________________________________________________________
+*Version 1.3.0 (July 17, 2010):*
+
+    * All cursor directions fixed
+    * delete function completed. You can delete via edit button in main menu
+    * Disabled keyboard while keeping cursor and copy/cut functions.
+
+
+__________________________________________________________________________________
+*Version 1.1.0(July 10, 2010):*
+
+    * All items in the list open and load their data.
+    * All items in the list can save to their individual notes
+    * Edit Title is working.
+    * Commented most of the project
+    * Still To do:
+          o back button which saves and refreshes the view
+
+
+__________________________________________________________________________________
+*Version 1.0(July 8, 2010):*
+
+    * Table view with list of items which opens up to the note view
+    * note view with text view displaying note’s text
+    * edit button which opens up keyboard
+    * keyboard with save button and function
+    * Save the data and loads it for a single Note in the list
+
+
+___________________________________________________________________________________
+*Version 0.2.0(July 3, 2010):*
+
+    * Keyboard with all the necessary keys
+    * switches between the types of keys
+    * Main Menu has been built separately
+
+
+___________________________________________________________________________________
+*Version 0.05.0(June 26, 2010):*
+
+    * Simple Keyboard with char and select keys that work.
+    * displays output on a label
+    * many bugs to work out. 

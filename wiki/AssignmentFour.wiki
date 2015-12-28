@@ -1,0 +1,18 @@
+#summary Version 2
+
+Project Manager
+
+_Sejal Rathee_
+
+= Introduction =
+This assignment has the Version 02 of the application.
+*Features:* -Email -SMS -Tutorial
+
+
+
+= Details =
+*Updated Requirements Document:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-Req-Doc-Ver03.doc&can=2&q=#makechanges
+
+*Updated Design Document:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-DesignDocument-Ver03.doc&can=2&q=#makechanges
+
+*Updated Quality Assurance Plan:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-QA-Ver03.doc&can=2&q=#makechanges

@@ -1,0 +1,20 @@
+#summary Final Version
+
+Project Manager
+
+_Ivan Sangala_
+
+= Introduction =
+This is the final version of this application.
+
+
+= Details =
+
+*Requirement Document:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-Req-Doc-Final_Version.doc&can=2&q=#makechanges
+
+*Design Document:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-DesignDoc.doc&can=2&q=#makechanges
+
+*QA Document:*
+*Requirement Verification:* http://code.google.com/p/eznotes/downloads/detail?name=Group-6-Requirement%20Verification.doc&can=2&q=#makechanges
+
+*Unit testing:*
